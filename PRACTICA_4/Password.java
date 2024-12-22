@@ -71,8 +71,4 @@ public class Password {
 		}
 		return (contadorPalabrasMayu>=2 && contadorPalabrasMinus>=1 && contadorNumeros>=5)?true:false;
 	}
-	
-	
-	
-	
 }
